@@ -1,0 +1,2252 @@
+{
+  "AD": {
+    "a3": "AND",
+    "latitude": 42.558333333333,
+    "longitude": 1.5552777777778,
+    "name": "Andorra",
+    "waf_2": "AD-XX",
+    "waf_3": "AND-XX",
+    "wikidata_id": "Q228"
+  },
+  "AE": {
+    "a3": "ARE",
+    "latitude": 24.4,
+    "longitude": 54.3,
+    "name": "United Arab Emirates",
+    "waf_2": "AE-XX",
+    "waf_3": "ARE-XX",
+    "wikidata_id": "Q878"
+  },
+  "AF": {
+    "a3": "AFG",
+    "latitude": 33,
+    "longitude": 66,
+    "name": "Afghanistan",
+    "waf_2": "AF-XX",
+    "waf_3": "AFG-XX",
+    "wikidata_id": "Q889"
+  },
+  "AG": {
+    "a3": "ATG",
+    "latitude": 17.116666666667,
+    "longitude": -61.85,
+    "name": "Antigua and Barbuda",
+    "waf_2": "AG-XX",
+    "waf_3": "ATG-XX",
+    "wikidata_id": "Q781"
+  },
+  "AI": {
+    "a3": "AIA",
+    "latitude": 18.227222222222,
+    "longitude": -63.048888888889,
+    "name": "Anguilla",
+    "waf_2": "AI-XX",
+    "waf_3": "AIA-XX",
+    "wikidata_id": "Q25228"
+  },
+  "AL": {
+    "a3": "ALB",
+    "latitude": 41,
+    "longitude": 20,
+    "name": "Albania",
+    "waf_2": "AL-XX",
+    "waf_3": "ALB-XX",
+    "wikidata_id": "Q222"
+  },
+  "AM": {
+    "a3": "ARM",
+    "latitude": 40.383333,
+    "longitude": 44.95,
+    "name": "Armenia",
+    "waf_2": "AM-XX",
+    "waf_3": "ARM-XX",
+    "wikidata_id": "Q399"
+  },
+  "AO": {
+    "a3": "AGO",
+    "latitude": -12.35,
+    "longitude": 17.35,
+    "name": "Angola",
+    "waf_2": "AO-XX",
+    "waf_3": "AGO-XX",
+    "wikidata_id": "Q916"
+  },
+  "AQ": {
+    "a3": "ATA",
+    "latitude": -90,
+    "longitude": 0,
+    "name": "Antarctica",
+    "waf_2": "AQ-XX",
+    "waf_3": "ATA-XX",
+    "wikidata_id": "Q51"
+  },
+  "AR": {
+    "a3": "ARG",
+    "latitude": -34,
+    "longitude": -64,
+    "name": "Argentina",
+    "waf_2": "AR-XX",
+    "waf_3": "ARG-XX",
+    "wikidata_id": "Q414"
+  },
+  "AS": {
+    "a3": "ASM",
+    "latitude": -14.295833,
+    "longitude": -170.7075,
+    "name": "American Samoa",
+    "waf_2": "AS-XX",
+    "waf_3": "ASM-XX",
+    "wikidata_id": "Q16641"
+  },
+  "AT": {
+    "a3": "AUT",
+    "latitude": 48,
+    "longitude": 14,
+    "name": "Austria",
+    "waf_2": "AT-XX",
+    "waf_3": "AUT-XX",
+    "wikidata_id": "Q40"
+  },
+  "AU": {
+    "a3": "AUS",
+    "latitude": -28,
+    "longitude": 137,
+    "name": "Australia",
+    "waf_2": "AU-XX",
+    "waf_3": "AUS-XX",
+    "wikidata_id": "Q408"
+  },
+  "AW": {
+    "a3": "ABW",
+    "latitude": 12.51106253,
+    "longitude": -69.97422388,
+    "name": "Aruba",
+    "waf_2": "AW-XX",
+    "waf_3": "ABW-XX",
+    "wikidata_id": "Q21203"
+  },
+  "AX": {
+    "a3": "ALA",
+    "latitude": 60.25,
+    "longitude": 20,
+    "name": "Åland",
+    "waf_2": "AX-XX",
+    "waf_3": "ALA-XX",
+    "wikidata_id": "Q5689"
+  },
+  "AZ": {
+    "a3": "AZE",
+    "latitude": 40.3,
+    "longitude": 47.7,
+    "name": "Azerbaijan",
+    "waf_2": "AZ-XX",
+    "waf_3": "AZE-XX",
+    "wikidata_id": "Q227"
+  },
+  "BA": {
+    "a3": "BIH",
+    "latitude": 44,
+    "longitude": 18,
+    "name": "Bosnia and Herzegovina",
+    "waf_2": "BA-XX",
+    "waf_3": "BIH-XX",
+    "wikidata_id": "Q225"
+  },
+  "BB": {
+    "a3": "BRB",
+    "latitude": 13.17,
+    "longitude": -59.5525,
+    "name": "Barbados",
+    "waf_2": "BB-XX",
+    "waf_3": "BRB-XX",
+    "wikidata_id": "Q244"
+  },
+  "BD": {
+    "a3": "BGD",
+    "latitude": 24.016667,
+    "longitude": 89.866667,
+    "name": "Bangladesh",
+    "waf_2": "BD-XX",
+    "waf_3": "BGD-XX",
+    "wikidata_id": "Q902"
+  },
+  "BE": {
+    "a3": "BEL",
+    "latitude": 50.641111111111,
+    "longitude": 4.6680555555556,
+    "name": "Belgium",
+    "waf_2": "BE-XX",
+    "waf_3": "BEL-XX",
+    "wikidata_id": "Q31"
+  },
+  "BF": {
+    "a3": "BFA",
+    "latitude": 12.266667,
+    "longitude": -2.066667,
+    "name": "Burkina Faso",
+    "waf_2": "BF-XX",
+    "waf_3": "BFA-XX",
+    "wikidata_id": "Q965"
+  },
+  "BG": {
+    "a3": "BGR",
+    "latitude": 42.75,
+    "longitude": 25.5,
+    "name": "Bulgaria",
+    "waf_2": "BG-XX",
+    "waf_3": "BGR-XX",
+    "wikidata_id": "Q219"
+  },
+  "BH": {
+    "a3": "BHR",
+    "latitude": 26.0675,
+    "longitude": 50.551111,
+    "name": "Bahrain",
+    "waf_2": "BH-XX",
+    "waf_3": "BHR-XX",
+    "wikidata_id": "Q398"
+  },
+  "BI": {
+    "a3": "BDI",
+    "latitude": -3.666667,
+    "longitude": 29.816667,
+    "name": "Burundi",
+    "waf_2": "BI-XX",
+    "waf_3": "BDI-XX",
+    "wikidata_id": "Q967"
+  },
+  "BJ": {
+    "a3": "BEN",
+    "latitude": 8.8333333333333,
+    "longitude": 2.1833333333333,
+    "name": "Benin",
+    "waf_2": "BJ-XX",
+    "waf_3": "BEN-XX",
+    "wikidata_id": "Q962"
+  },
+  "BL": {
+    "a3": "BLM",
+    "latitude": 17.897728,
+    "longitude": -62.8342438,
+    "name": "Saint Barthélemy",
+    "waf_2": "BL-XX",
+    "waf_3": "BLM-XX",
+    "wikidata_id": "Q25362"
+  },
+  "BM": {
+    "a3": "BMU",
+    "latitude": 32.32,
+    "longitude": -64.74,
+    "name": "Bermuda",
+    "waf_2": "BM-XX",
+    "waf_3": "BMU-XX",
+    "wikidata_id": "Q23635"
+  },
+  "BN": {
+    "a3": "BRN",
+    "latitude": 4.4,
+    "longitude": 114.566667,
+    "name": "Brunei",
+    "waf_2": "BN-XX",
+    "waf_3": "BRN-XX",
+    "wikidata_id": "Q921"
+  },
+  "BO": {
+    "a3": "BOL",
+    "latitude": -17.056869611111,
+    "longitude": -64.991228611111,
+    "name": "Bolivia",
+    "waf_2": "BO-XX",
+    "waf_3": "BOL-XX",
+    "wikidata_id": "Q750"
+  },
+  "BR": {
+    "a3": "BRA",
+    "latitude": -14,
+    "longitude": -53,
+    "name": "Brazil",
+    "waf_2": "BR-XX",
+    "waf_3": "BRA-XX",
+    "wikidata_id": "Q155"
+  },
+  "BS": {
+    "a3": "BHS",
+    "latitude": 25,
+    "longitude": -77.4,
+    "name": "The Bahamas",
+    "waf_2": "BS-XX",
+    "waf_3": "BHS-XX",
+    "wikidata_id": "Q778"
+  },
+  "BT": {
+    "a3": "BTN",
+    "latitude": 27.45,
+    "longitude": 90.5,
+    "name": "Bhutan",
+    "waf_2": "BT-XX",
+    "waf_3": "BTN-XX",
+    "wikidata_id": "Q917"
+  },
+  "BV": {
+    "a3": "BVT",
+    "latitude": -54.42,
+    "longitude": 3.36,
+    "name": "Bouvet Island",
+    "waf_2": "BV-XX",
+    "waf_3": "BVT-XX",
+    "wikidata_id": null
+  },
+  "BW": {
+    "a3": "BWA",
+    "latitude": -22.2,
+    "longitude": 23.7,
+    "name": "Botswana",
+    "waf_2": "BW-XX",
+    "waf_3": "BWA-XX",
+    "wikidata_id": "Q963"
+  },
+  "BY": {
+    "a3": "BLR",
+    "latitude": 53.528333333333,
+    "longitude": 28.046666666667,
+    "name": "Belarus",
+    "waf_2": "BY-XX",
+    "waf_3": "BLR-XX",
+    "wikidata_id": "Q184"
+  },
+  "BZ": {
+    "a3": "BLZ",
+    "latitude": 17.066666666666666,
+    "longitude": -88.7,
+    "name": "Belize",
+    "waf_2": "BZ-XX",
+    "waf_3": "BLZ-XX",
+    "wikidata_id": "Q242"
+  },
+  "CA": {
+    "a3": "CAN",
+    "latitude": 56,
+    "longitude": -109,
+    "name": "Canada",
+    "waf_2": "CA-XX",
+    "waf_3": "CAN-XX",
+    "wikidata_id": "Q16"
+  },
+  "CC": {
+    "a3": "CCK",
+    "latitude": -12.1175,
+    "longitude": 96.895,
+    "name": "Cocos (Keeling) Islands",
+    "waf_2": "CC-XX",
+    "waf_3": "CCK-XX",
+    "wikidata_id": null
+  },
+  "CD": {
+    "a3": "COD",
+    "latitude": -2.88,
+    "longitude": 23.656111111111112,
+    "name": "Democratic Republic of the Congo",
+    "waf_2": "CD-XX",
+    "waf_3": "COD-XX",
+    "wikidata_id": "Q974"
+  },
+  "CF": {
+    "a3": "CAF",
+    "latitude": 6.7,
+    "longitude": 20.9,
+    "name": "Central African Republic",
+    "waf_2": "CF-XX",
+    "waf_3": "CAF-XX",
+    "wikidata_id": "Q929"
+  },
+  "CG": {
+    "a3": "COG",
+    "latitude": -0.75,
+    "longitude": 15.383330555556,
+    "name": "Republic of the Congo",
+    "waf_2": "CG-XX",
+    "waf_3": "COG-XX",
+    "wikidata_id": "Q971"
+  },
+  "CH": {
+    "a3": "CHE",
+    "latitude": 46.798562,
+    "longitude": 8.231973,
+    "name": "Switzerland",
+    "waf_2": "CH-XX",
+    "waf_3": "CHE-XX",
+    "wikidata_id": "Q39"
+  },
+  "CI": {
+    "a3": "CIV",
+    "latitude": 8,
+    "longitude": -6,
+    "name": "Ivory Coast",
+    "waf_2": "CI-XX",
+    "waf_3": "CIV-XX",
+    "wikidata_id": "Q1008"
+  },
+  "CK": {
+    "a3": "COK",
+    "latitude": -21.233333333333334,
+    "longitude": -159.78333333333333,
+    "name": "Cook Islands",
+    "waf_2": "CK-XX",
+    "waf_3": "COK-XX",
+    "wikidata_id": "Q26988"
+  },
+  "CL": {
+    "a3": "CHL",
+    "latitude": -33,
+    "longitude": -71,
+    "name": "Chile",
+    "waf_2": "CL-XX",
+    "waf_3": "CHL-XX",
+    "wikidata_id": "Q298"
+  },
+  "CM": {
+    "a3": "CMR",
+    "latitude": 7,
+    "longitude": 12,
+    "name": "Cameroon",
+    "waf_2": "CM-XX",
+    "waf_3": "CMR-XX",
+    "wikidata_id": "Q1009"
+  },
+  "CN": {
+    "a3": "CHN",
+    "latitude": 35.844722222222224,
+    "longitude": 103.45194444444445,
+    "name": "People's Republic of China",
+    "waf_2": "CN-XX",
+    "waf_3": "CHN-XX",
+    "wikidata_id": "Q148"
+  },
+  "CN-TW": {
+    "a3": "TWN",
+    "latitude": 24,
+    "longitude": 121,
+    "name": "Taiwan",
+    "waf_2": "CN-TW-XX",
+    "waf_3": "TWN-XX",
+    "wikidata_id": "Q865"
+  },
+  "CO": {
+    "a3": "COL",
+    "latitude": 4,
+    "longitude": -73.25,
+    "name": "Colombia",
+    "waf_2": "CO-XX",
+    "waf_3": "COL-XX",
+    "wikidata_id": "Q739"
+  },
+  "CR": {
+    "a3": "CRI",
+    "latitude": 10,
+    "longitude": -84,
+    "name": "Costa Rica",
+    "waf_2": "CR-XX",
+    "waf_3": "CRI-XX",
+    "wikidata_id": "Q800"
+  },
+  "CU": {
+    "a3": "CUB",
+    "latitude": 22,
+    "longitude": -79.5,
+    "name": "Cuba",
+    "waf_2": "CU-XX",
+    "waf_3": "CUB-XX",
+    "wikidata_id": "Q241"
+  },
+  "CV": {
+    "a3": "CPV",
+    "latitude": 15.3,
+    "longitude": -23.7,
+    "name": "Cape Verde",
+    "waf_2": "CV-XX",
+    "waf_3": "CPV-XX",
+    "wikidata_id": "Q1011"
+  },
+  "CW": {
+    "a3": "CUW",
+    "latitude": 12.1964,
+    "longitude": -69.012,
+    "name": "Curaçao",
+    "waf_2": "CW-XX",
+    "waf_3": "CUW-XX",
+    "wikidata_id": "Q25279"
+  },
+  "CX": {
+    "a3": "CXR",
+    "latitude": -10.49,
+    "longitude": 105.6275,
+    "name": "Christmas Island",
+    "waf_2": "CX-XX",
+    "waf_3": "CXR-XX",
+    "wikidata_id": null
+  },
+  "CY": {
+    "a3": "CYP",
+    "latitude": 35,
+    "longitude": 33,
+    "name": "Cyprus",
+    "waf_2": "CY-XX",
+    "waf_3": "CYP-XX",
+    "wikidata_id": "Q229"
+  },
+  "CZ": {
+    "a3": "CZE",
+    "latitude": 49.5,
+    "longitude": 16,
+    "name": "Czech Republic",
+    "waf_2": "CZ-XX",
+    "waf_3": "CZE-XX",
+    "wikidata_id": "Q213"
+  },
+  "DE": {
+    "a3": "DEU",
+    "latitude": 51,
+    "longitude": 10,
+    "name": "Germany",
+    "waf_2": "DE-XX",
+    "waf_3": "DEU-XX",
+    "wikidata_id": "Q183"
+  },
+  "DJ": {
+    "a3": "DJI",
+    "latitude": 11.8,
+    "longitude": 42.433333,
+    "name": "Djibouti",
+    "waf_2": "DJ-XX",
+    "waf_3": "DJI-XX",
+    "wikidata_id": "Q977"
+  },
+  "DK": {
+    "a3": "DNK",
+    "latitude": 56,
+    "longitude": 10,
+    "name": "Denmark",
+    "waf_2": "DK-XX",
+    "waf_3": "DNK-XX",
+    "wikidata_id": "Q35"
+  },
+  "DM": {
+    "a3": "DMA",
+    "latitude": 15.416667,
+    "longitude": -61.333333,
+    "name": "Dominica",
+    "waf_2": "DM-XX",
+    "waf_3": "DMA-XX",
+    "wikidata_id": "Q784"
+  },
+  "DO": {
+    "a3": "DOM",
+    "latitude": 18.8,
+    "longitude": -70.2,
+    "name": "Dominican Republic",
+    "waf_2": "DO-XX",
+    "waf_3": "DOM-XX",
+    "wikidata_id": "Q786"
+  },
+  "DZ": {
+    "a3": "DZA",
+    "latitude": 28,
+    "longitude": 1,
+    "name": "Algeria",
+    "waf_2": "DZ-XX",
+    "waf_3": "DZA-XX",
+    "wikidata_id": "Q262"
+  },
+  "EC": {
+    "a3": "ECU",
+    "latitude": -1,
+    "longitude": -78,
+    "name": "Ecuador",
+    "waf_2": "EC-XX",
+    "waf_3": "ECU-XX",
+    "wikidata_id": "Q736"
+  },
+  "EE": {
+    "a3": "EST",
+    "latitude": 59,
+    "longitude": 26,
+    "name": "Estonia",
+    "waf_2": "EE-XX",
+    "waf_3": "EST-XX",
+    "wikidata_id": "Q191"
+  },
+  "EG": {
+    "a3": "EGY",
+    "latitude": 27,
+    "longitude": 29,
+    "name": "Egypt",
+    "waf_2": "EG-XX",
+    "waf_3": "EGY-XX",
+    "wikidata_id": "Q79"
+  },
+  "EH": {
+    "a3": "ESH",
+    "latitude": 25,
+    "longitude": -13,
+    "name": "Western Sahara",
+    "waf_2": "EH-XX",
+    "waf_3": "ESH-XX",
+    "wikidata_id": "Q6250"
+  },
+  "ER": {
+    "a3": "ERI",
+    "latitude": 15.483333,
+    "longitude": 38.25,
+    "name": "Eritrea",
+    "waf_2": "ER-XX",
+    "waf_3": "ERI-XX",
+    "wikidata_id": "Q986"
+  },
+  "ES": {
+    "a3": "ESP",
+    "latitude": 40.2,
+    "longitude": -3.5,
+    "name": "Spain",
+    "waf_2": "ES-XX",
+    "waf_3": "ESP-XX",
+    "wikidata_id": "Q29"
+  },
+  "ET": {
+    "a3": "ETH",
+    "latitude": 9,
+    "longitude": 40,
+    "name": "Ethiopia",
+    "waf_2": "ET-XX",
+    "waf_3": "ETH-XX",
+    "wikidata_id": "Q115"
+  },
+  "FI": {
+    "a3": "FIN",
+    "latitude": 65,
+    "longitude": 27,
+    "name": "Finland",
+    "waf_2": "FI-XX",
+    "waf_3": "FIN-XX",
+    "wikidata_id": "Q33"
+  },
+  "FJ": {
+    "a3": "FJI",
+    "latitude": -18,
+    "longitude": 178,
+    "name": "Fiji",
+    "waf_2": "FJ-XX",
+    "waf_3": "FJI-XX",
+    "wikidata_id": "Q712"
+  },
+  "FK": {
+    "a3": "FLK",
+    "latitude": -51.73,
+    "longitude": -59.22,
+    "name": "Falkland Islands",
+    "waf_2": "FK-XX",
+    "waf_3": "FLK-XX",
+    "wikidata_id": "Q9648"
+  },
+  "FM": {
+    "a3": "FSM",
+    "latitude": 6.9166666666667,
+    "longitude": 158.18333333333,
+    "name": "Federated States of Micronesia",
+    "waf_2": "FM-XX",
+    "waf_3": "FSM-XX",
+    "wikidata_id": "Q702"
+  },
+  "FO": {
+    "a3": "FRO",
+    "latitude": 61.969944444444,
+    "longitude": -6.8444805555556,
+    "name": "Faroe Islands",
+    "waf_2": "FO-XX",
+    "waf_3": "FRO-XX",
+    "wikidata_id": "Q4628"
+  },
+  "FR": {
+    "a3": "FRA",
+    "latitude": 47,
+    "longitude": 2,
+    "name": "France",
+    "waf_2": "FR-XX",
+    "waf_3": "FRA-XX",
+    "wikidata_id": "Q142"
+  },
+  "GA": {
+    "a3": "GAB",
+    "latitude": -0.68333055555556,
+    "longitude": 11.5,
+    "name": "Gabon",
+    "waf_2": "GA-XX",
+    "waf_3": "GAB-XX",
+    "wikidata_id": "Q1000"
+  },
+  "GB": {
+    "a3": "GBR",
+    "latitude": 54.6,
+    "longitude": -2,
+    "name": "United Kingdom",
+    "waf_2": "GB-XX",
+    "waf_3": "GBR-XX",
+    "wikidata_id": "Q145"
+  },
+  "GD": {
+    "a3": "GRD",
+    "latitude": 12.116667,
+    "longitude": -61.666667,
+    "name": "Grenada",
+    "waf_2": "GD-XX",
+    "waf_3": "GRD-XX",
+    "wikidata_id": "Q769"
+  },
+  "GE": {
+    "a3": "GEO",
+    "latitude": 42,
+    "longitude": 44,
+    "name": "Georgia",
+    "waf_2": "GE-XX",
+    "waf_3": "GEO-XX",
+    "wikidata_id": "Q230"
+  },
+  "GF": {
+    "a3": "GUF",
+    "latitude": 4,
+    "longitude": -53,
+    "name": "French Guiana",
+    "waf_2": "GF-XX",
+    "waf_3": "GUF-XX",
+    "wikidata_id": null
+  },
+  "GG": {
+    "a3": "GGY",
+    "latitude": 49.45,
+    "longitude": -2.5833333333333,
+    "name": "Guernsey",
+    "waf_2": "GG-XX",
+    "waf_3": "GGY-XX",
+    "wikidata_id": "Q25230"
+  },
+  "GH": {
+    "a3": "GHA",
+    "latitude": 8.03,
+    "longitude": -1.08,
+    "name": "Ghana",
+    "waf_2": "GH-XX",
+    "waf_3": "GHA-XX",
+    "wikidata_id": "Q117"
+  },
+  "GI": {
+    "a3": "GIB",
+    "latitude": 36.14,
+    "longitude": -5.35,
+    "name": "Gibraltar",
+    "waf_2": "GI-XX",
+    "waf_3": "GIB-XX",
+    "wikidata_id": "Q1410"
+  },
+  "GL": {
+    "a3": "GRL",
+    "latitude": 72,
+    "longitude": -40,
+    "name": "Greenland",
+    "waf_2": "GL-XX",
+    "waf_3": "GRL-XX",
+    "wikidata_id": "Q223"
+  },
+  "GM": {
+    "a3": "GMB",
+    "latitude": 13.5,
+    "longitude": -15.5,
+    "name": "The Gambia",
+    "waf_2": "GM-XX",
+    "waf_3": "GMB-XX",
+    "wikidata_id": "Q1005"
+  },
+  "GN": {
+    "a3": "GIN",
+    "latitude": 10,
+    "longitude": -11,
+    "name": "Guinea",
+    "waf_2": "GN-XX",
+    "waf_3": "GIN-XX",
+    "wikidata_id": "Q1006"
+  },
+  "GP": {
+    "a3": "GLP",
+    "latitude": 16.25,
+    "longitude": -61.583333,
+    "name": "Guadeloupe",
+    "waf_2": "GP-XX",
+    "waf_3": "GLP-XX",
+    "wikidata_id": null
+  },
+  "GQ": {
+    "a3": "GNQ",
+    "latitude": 1.5,
+    "longitude": 10,
+    "name": "Equatorial Guinea",
+    "waf_2": "GQ-XX",
+    "waf_3": "GNQ-XX",
+    "wikidata_id": "Q983"
+  },
+  "GR": {
+    "a3": "GRC",
+    "latitude": 38.5,
+    "longitude": 23,
+    "name": "Greece",
+    "waf_2": "GR-XX",
+    "waf_3": "GRC-XX",
+    "wikidata_id": "Q41"
+  },
+  "GS": {
+    "a3": "SGS",
+    "latitude": -54.25,
+    "longitude": -36.75,
+    "name": "South Georgia and the South Sandwich Islands",
+    "waf_2": "GS-XX",
+    "waf_3": "SGS-XX",
+    "wikidata_id": "Q35086"
+  },
+  "GT": {
+    "a3": "GTM",
+    "latitude": 15.5,
+    "longitude": -90.25,
+    "name": "Guatemala",
+    "waf_2": "GT-XX",
+    "waf_3": "GTM-XX",
+    "wikidata_id": "Q774"
+  },
+  "GU": {
+    "a3": "GUM",
+    "latitude": 13.5,
+    "longitude": 144.8,
+    "name": "Guam",
+    "waf_2": "GU-XX",
+    "waf_3": "GUM-XX",
+    "wikidata_id": "Q16635"
+  },
+  "GW": {
+    "a3": "GNB",
+    "latitude": 12,
+    "longitude": -15,
+    "name": "Guinea-Bissau",
+    "waf_2": "GW-XX",
+    "waf_3": "GNB-XX",
+    "wikidata_id": "Q1007"
+  },
+  "GY": {
+    "a3": "GUY",
+    "latitude": 5.733333,
+    "longitude": -59.316667,
+    "name": "Guyana",
+    "waf_2": "GY-XX",
+    "waf_3": "GUY-XX",
+    "wikidata_id": "Q734"
+  },
+  "HK": {
+    "a3": "HKG",
+    "latitude": 22.278333333333,
+    "longitude": 114.15861111111,
+    "name": "Hong Kong",
+    "waf_2": "HK-XX",
+    "waf_3": "HKG-XX",
+    "wikidata_id": "Q8646"
+  },
+  "HM": {
+    "a3": "HMD",
+    "latitude": -53.09352777777778,
+    "longitude": 73.517,
+    "name": "Heard Island and McDonald Islands",
+    "waf_2": "HM-XX",
+    "waf_3": "HMD-XX",
+    "wikidata_id": "Q131198"
+  },
+  "HN": {
+    "a3": "HND",
+    "latitude": 14.633333,
+    "longitude": -86.816667,
+    "name": "Honduras",
+    "waf_2": "HN-XX",
+    "waf_3": "HND-XX",
+    "wikidata_id": "Q783"
+  },
+  "HR": {
+    "a3": "HRV",
+    "latitude": 45.25,
+    "longitude": 15.466667,
+    "name": "Croatia",
+    "waf_2": "HR-XX",
+    "waf_3": "HRV-XX",
+    "wikidata_id": "Q224"
+  },
+  "HT": {
+    "a3": "HTI",
+    "latitude": 19,
+    "longitude": -72.8,
+    "name": "Haiti",
+    "waf_2": "HT-XX",
+    "waf_3": "HTI-XX",
+    "wikidata_id": "Q790"
+  },
+  "HU": {
+    "a3": "HUN",
+    "latitude": 47,
+    "longitude": 19,
+    "name": "Hungary",
+    "waf_2": "HU-XX",
+    "waf_3": "HUN-XX",
+    "wikidata_id": "Q28"
+  },
+  "ID": {
+    "a3": "IDN",
+    "latitude": -2,
+    "longitude": 118,
+    "name": "Indonesia",
+    "waf_2": "ID-XX",
+    "waf_3": "IDN-XX",
+    "wikidata_id": "Q252"
+  },
+  "IE": {
+    "a3": "IRL",
+    "latitude": 53,
+    "longitude": -8,
+    "name": "Ireland",
+    "waf_2": "IE-XX",
+    "waf_3": "IRL-XX",
+    "wikidata_id": "Q27"
+  },
+  "IL": {
+    "a3": "ISR",
+    "latitude": 31,
+    "longitude": 35,
+    "name": "Israel",
+    "waf_2": "IL-XX",
+    "waf_3": "ISR-XX",
+    "wikidata_id": "Q801"
+  },
+  "IM": {
+    "a3": "IMN",
+    "latitude": 54.235,
+    "longitude": -4.525,
+    "name": "Isle of Man",
+    "waf_2": "IM-XX",
+    "waf_3": "IMN-XX",
+    "wikidata_id": "Q9676"
+  },
+  "IN": {
+    "a3": "IND",
+    "latitude": 22.8,
+    "longitude": 83,
+    "name": "India",
+    "waf_2": "IN-XX",
+    "waf_3": "IND-XX",
+    "wikidata_id": "Q668"
+  },
+  "IO": {
+    "a3": "IOT",
+    "latitude": -6,
+    "longitude": 71.5,
+    "name": "British Indian Ocean Territory",
+    "waf_2": "IO-XX",
+    "waf_3": "IOT-XX",
+    "wikidata_id": "Q43448"
+  },
+  "IQ": {
+    "a3": "IRQ",
+    "latitude": 33,
+    "longitude": 43,
+    "name": "Iraq",
+    "waf_2": "IQ-XX",
+    "waf_3": "IRQ-XX",
+    "wikidata_id": "Q796"
+  },
+  "IR": {
+    "a3": "IRN",
+    "latitude": 32,
+    "longitude": 53,
+    "name": "Iran",
+    "waf_2": "IR-XX",
+    "waf_3": "IRN-XX",
+    "wikidata_id": "Q794"
+  },
+  "IS": {
+    "a3": "ISL",
+    "latitude": 65,
+    "longitude": -19,
+    "name": "Iceland",
+    "waf_2": "IS-XX",
+    "waf_3": "ISL-XX",
+    "wikidata_id": "Q189"
+  },
+  "IT": {
+    "a3": "ITA",
+    "latitude": 42.5,
+    "longitude": 12.5,
+    "name": "Italy",
+    "waf_2": "IT-XX",
+    "waf_3": "ITA-XX",
+    "wikidata_id": "Q38"
+  },
+  "JE": {
+    "a3": "JEY",
+    "latitude": 49.19,
+    "longitude": -2.11,
+    "name": "Jersey",
+    "waf_2": "JE-XX",
+    "waf_3": "JEY-XX",
+    "wikidata_id": "Q785"
+  },
+  "JM": {
+    "a3": "JAM",
+    "latitude": 18.18,
+    "longitude": -77.4,
+    "name": "Jamaica",
+    "waf_2": "JM-XX",
+    "waf_3": "JAM-XX",
+    "wikidata_id": "Q766"
+  },
+  "JO": {
+    "a3": "JOR",
+    "latitude": 31.2,
+    "longitude": 36.5,
+    "name": "Jordan",
+    "waf_2": "JO-XX",
+    "waf_3": "JOR-XX",
+    "wikidata_id": "Q810"
+  },
+  "JP": {
+    "a3": "JPN",
+    "latitude": 35,
+    "longitude": 136,
+    "name": "Japan",
+    "waf_2": "JP-XX",
+    "waf_3": "JPN-XX",
+    "wikidata_id": "Q17"
+  },
+  "KE": {
+    "a3": "KEN",
+    "latitude": 0.1,
+    "longitude": 38,
+    "name": "Kenya",
+    "waf_2": "KE-XX",
+    "waf_3": "KEN-XX",
+    "wikidata_id": "Q114"
+  },
+  "KG": {
+    "a3": "KGZ",
+    "latitude": 41,
+    "longitude": 75,
+    "name": "Kyrgyzstan",
+    "waf_2": "KG-XX",
+    "waf_3": "KGZ-XX",
+    "wikidata_id": "Q813"
+  },
+  "KH": {
+    "a3": "KHM",
+    "latitude": 11.57,
+    "longitude": 104.91,
+    "name": "Cambodia",
+    "waf_2": "KH-XX",
+    "waf_3": "KHM-XX",
+    "wikidata_id": "Q424"
+  },
+  "KI": {
+    "a3": "KIR",
+    "latitude": 1.4666666666667,
+    "longitude": 173.03333333333,
+    "name": "Kiribati",
+    "waf_2": "KI-XX",
+    "waf_3": "KIR-XX",
+    "wikidata_id": "Q710"
+  },
+  "KM": {
+    "a3": "COM",
+    "latitude": -12.3,
+    "longitude": 43.7,
+    "name": "Comoros",
+    "waf_2": "KM-XX",
+    "waf_3": "COM-XX",
+    "wikidata_id": "Q970"
+  },
+  "KN": {
+    "a3": "KNA",
+    "latitude": 17.27166666666667,
+    "longitude": -62.666669444444445,
+    "name": "Saint Kitts and Nevis",
+    "waf_2": "KN-XX",
+    "waf_3": "KNA-XX",
+    "wikidata_id": "Q763"
+  },
+  "KP": {
+    "a3": "PRK",
+    "latitude": 40,
+    "longitude": 127,
+    "name": "North Korea",
+    "waf_2": "KP-XX",
+    "waf_3": "PRK-XX",
+    "wikidata_id": "Q423"
+  },
+  "KR": {
+    "a3": "KOR",
+    "latitude": 36,
+    "longitude": 128,
+    "name": "South Korea",
+    "waf_2": "KR-XX",
+    "waf_3": "KOR-XX",
+    "wikidata_id": "Q884"
+  },
+  "KV": {
+    "a3": "KSV",
+    "latitude": 42.55,
+    "longitude": 20.833333333333,
+    "name": "Kosovo",
+    "waf_2": "KV-XX",
+    "waf_3": "KSV-XX",
+    "wikidata_id": "Q1246"
+  },
+  "KW": {
+    "a3": "KWT",
+    "latitude": 29.166667,
+    "longitude": 47.6,
+    "name": "Kuwait",
+    "waf_2": "KW-XX",
+    "waf_3": "KWT-XX",
+    "wikidata_id": "Q817"
+  },
+  "KY": {
+    "a3": "CYM",
+    "latitude": 19.5,
+    "longitude": -80.5,
+    "name": "Cayman Islands",
+    "waf_2": "KY-XX",
+    "waf_3": "CYM-XX",
+    "wikidata_id": "Q5785"
+  },
+  "KZ": {
+    "a3": "KAZ",
+    "latitude": 48,
+    "longitude": 68,
+    "name": "Kazakhstan",
+    "waf_2": "KZ-XX",
+    "waf_3": "KAZ-XX",
+    "wikidata_id": "Q232"
+  },
+  "LA": {
+    "a3": "LAO",
+    "latitude": 18.2,
+    "longitude": 104.1,
+    "name": "Laos",
+    "waf_2": "LA-XX",
+    "waf_3": "LAO-XX",
+    "wikidata_id": "Q819"
+  },
+  "LB": {
+    "a3": "LBN",
+    "latitude": 33.833333,
+    "longitude": 35.766667,
+    "name": "Lebanon",
+    "waf_2": "LB-XX",
+    "waf_3": "LBN-XX",
+    "wikidata_id": "Q822"
+  },
+  "LC": {
+    "a3": "LCA",
+    "latitude": 13.883333333333333,
+    "longitude": -60.96666666666667,
+    "name": "Saint Lucia",
+    "waf_2": "LC-XX",
+    "waf_3": "LCA-XX",
+    "wikidata_id": "Q760"
+  },
+  "LI": {
+    "a3": "LIE",
+    "latitude": 47.145,
+    "longitude": 9.553889,
+    "name": "Liechtenstein",
+    "waf_2": "LI-XX",
+    "waf_3": "LIE-XX",
+    "wikidata_id": "Q347"
+  },
+  "LK": {
+    "a3": "LKA",
+    "latitude": 7,
+    "longitude": 81,
+    "name": "Sri Lanka",
+    "waf_2": "LK-XX",
+    "waf_3": "LKA-XX",
+    "wikidata_id": "Q854"
+  },
+  "LR": {
+    "a3": "LBR",
+    "latitude": 6.533333,
+    "longitude": -9.75,
+    "name": "Liberia",
+    "waf_2": "LR-XX",
+    "waf_3": "LBR-XX",
+    "wikidata_id": "Q1014"
+  },
+  "LS": {
+    "a3": "LSO",
+    "latitude": -29.55,
+    "longitude": 28.25,
+    "name": "Lesotho",
+    "waf_2": "LS-XX",
+    "waf_3": "LSO-XX",
+    "wikidata_id": "Q1013"
+  },
+  "LT": {
+    "a3": "LTU",
+    "latitude": 55.2,
+    "longitude": 24,
+    "name": "Lithuania",
+    "waf_2": "LT-XX",
+    "waf_3": "LTU-XX",
+    "wikidata_id": "Q37"
+  },
+  "LU": {
+    "a3": "LUX",
+    "latitude": 49.77,
+    "longitude": 6.13,
+    "name": "Luxembourg",
+    "waf_2": "LU-XX",
+    "waf_3": "LUX-XX",
+    "wikidata_id": "Q32"
+  },
+  "LV": {
+    "a3": "LVA",
+    "latitude": 57,
+    "longitude": 25,
+    "name": "Latvia",
+    "waf_2": "LV-XX",
+    "waf_3": "LVA-XX",
+    "wikidata_id": "Q211"
+  },
+  "LY": {
+    "a3": "LBY",
+    "latitude": 27,
+    "longitude": 17,
+    "name": "Libya",
+    "waf_2": "LY-XX",
+    "waf_3": "LBY-XX",
+    "wikidata_id": "Q1016"
+  },
+  "MA": {
+    "a3": "MAR",
+    "latitude": 32,
+    "longitude": -6,
+    "name": "Morocco",
+    "waf_2": "MA-XX",
+    "waf_3": "MAR-XX",
+    "wikidata_id": "Q1028"
+  },
+  "MC": {
+    "a3": "MCO",
+    "latitude": 43.73111111111111,
+    "longitude": 7.42,
+    "name": "Monaco",
+    "waf_2": "MC-XX",
+    "waf_3": "MCO-XX",
+    "wikidata_id": "Q235"
+  },
+  "MD": {
+    "a3": "MDA",
+    "latitude": 47.25,
+    "longitude": 28.516667,
+    "name": "Moldova",
+    "waf_2": "MD-XX",
+    "waf_3": "MDA-XX",
+    "wikidata_id": "Q217"
+  },
+  "ME": {
+    "a3": "MNE",
+    "latitude": 42.766667,
+    "longitude": 19.216667,
+    "name": "Montenegro",
+    "waf_2": "ME-XX",
+    "waf_3": "MNE-XX",
+    "wikidata_id": "Q236"
+  },
+  "MF": {
+    "a3": "MAF",
+    "latitude": 18.075277777778,
+    "longitude": -63.06,
+    "name": "Saint Martin",
+    "waf_2": "MF-XX",
+    "waf_3": "MAF-XX",
+    "wikidata_id": "Q126125"
+  },
+  "MG": {
+    "a3": "MDG",
+    "latitude": -20,
+    "longitude": 47,
+    "name": "Madagascar",
+    "waf_2": "MG-XX",
+    "waf_3": "MDG-XX",
+    "wikidata_id": "Q1019"
+  },
+  "MH": {
+    "a3": "MHL",
+    "latitude": 9.82,
+    "longitude": 169.29,
+    "name": "Marshall Islands",
+    "waf_2": "MH-XX",
+    "waf_3": "MHL-XX",
+    "wikidata_id": "Q709"
+  },
+  "MK": {
+    "a3": "MKD",
+    "latitude": 41.65,
+    "longitude": 21.716667,
+    "name": "North Macedonia",
+    "waf_2": "MK-XX",
+    "waf_3": "MKD-XX",
+    "wikidata_id": "Q221"
+  },
+  "ML": {
+    "a3": "MLI",
+    "latitude": 17,
+    "longitude": -4,
+    "name": "Mali",
+    "waf_2": "ML-XX",
+    "waf_3": "MLI-XX",
+    "wikidata_id": "Q912"
+  },
+  "MM": {
+    "a3": "MMR",
+    "latitude": 22,
+    "longitude": 96,
+    "name": "Myanmar",
+    "waf_2": "MM-XX",
+    "waf_3": "MMR-XX",
+    "wikidata_id": "Q836"
+  },
+  "MN": {
+    "a3": "MNG",
+    "latitude": 46,
+    "longitude": 105,
+    "name": "Mongolia",
+    "waf_2": "MN-XX",
+    "waf_3": "MNG-XX",
+    "wikidata_id": "Q711"
+  },
+  "MO": {
+    "a3": "MAC",
+    "latitude": 22.166666666667,
+    "longitude": 113.55,
+    "name": "Macau",
+    "waf_2": "MO-XX",
+    "waf_3": "MAC-XX",
+    "wikidata_id": "Q14773"
+  },
+  "MP": {
+    "a3": "MNP",
+    "latitude": 16.705,
+    "longitude": 145.78,
+    "name": "Northern Mariana Islands",
+    "waf_2": "MP-XX",
+    "waf_3": "MNP-XX",
+    "wikidata_id": "Q16644"
+  },
+  "MQ": {
+    "a3": "MTQ",
+    "latitude": 14.65,
+    "longitude": -61.015,
+    "name": "Martinique",
+    "waf_2": "MQ-XX",
+    "waf_3": "MTQ-XX",
+    "wikidata_id": null
+  },
+  "MR": {
+    "a3": "MRT",
+    "latitude": 21,
+    "longitude": -11,
+    "name": "Mauritania",
+    "waf_2": "MR-XX",
+    "waf_3": "MRT-XX",
+    "wikidata_id": "Q1025"
+  },
+  "MS": {
+    "a3": "MSR",
+    "latitude": 16.75,
+    "longitude": -62.2,
+    "name": "Montserrat",
+    "waf_2": "MS-XX",
+    "waf_3": "MSR-XX",
+    "wikidata_id": "Q13353"
+  },
+  "MT": {
+    "a3": "MLT",
+    "latitude": 35.88333333333333,
+    "longitude": 14.5,
+    "name": "Malta",
+    "waf_2": "MT-XX",
+    "waf_3": "MLT-XX",
+    "wikidata_id": "Q233"
+  },
+  "MU": {
+    "a3": "MUS",
+    "latitude": -20.2,
+    "longitude": 57.5,
+    "name": "Mauritius",
+    "waf_2": "MU-XX",
+    "waf_3": "MUS-XX",
+    "wikidata_id": "Q1027"
+  },
+  "MV": {
+    "a3": "MDV",
+    "latitude": 4.18,
+    "longitude": 73.51,
+    "name": "Maldives",
+    "waf_2": "MV-XX",
+    "waf_3": "MDV-XX",
+    "wikidata_id": "Q826"
+  },
+  "MW": {
+    "a3": "MWI",
+    "latitude": -13,
+    "longitude": 34,
+    "name": "Malawi",
+    "waf_2": "MW-XX",
+    "waf_3": "MWI-XX",
+    "wikidata_id": "Q1020"
+  },
+  "MX": {
+    "a3": "MEX",
+    "latitude": 23,
+    "longitude": -102,
+    "name": "Mexico",
+    "waf_2": "MX-XX",
+    "waf_3": "MEX-XX",
+    "wikidata_id": "Q96"
+  },
+  "MY": {
+    "a3": "MYS",
+    "latitude": 3.7805111,
+    "longitude": 102.31436166666667,
+    "name": "Malaysia",
+    "waf_2": "MY-XX",
+    "waf_3": "MYS-XX",
+    "wikidata_id": "Q833"
+  },
+  "MZ": {
+    "a3": "MOZ",
+    "latitude": -19,
+    "longitude": 35,
+    "name": "Mozambique",
+    "waf_2": "MZ-XX",
+    "waf_3": "MOZ-XX",
+    "wikidata_id": "Q1029"
+  },
+  "NA": {
+    "a3": "NAM",
+    "latitude": -23,
+    "longitude": 17,
+    "name": "Namibia",
+    "waf_2": "NA-XX",
+    "waf_3": "NAM-XX",
+    "wikidata_id": "Q1030"
+  },
+  "NC": {
+    "a3": "NCL",
+    "latitude": -21.25,
+    "longitude": 165.3,
+    "name": "New Caledonia",
+    "waf_2": "NC-XX",
+    "waf_3": "NCL-XX",
+    "wikidata_id": "Q33788"
+  },
+  "NE": {
+    "a3": "NER",
+    "latitude": 17,
+    "longitude": 10,
+    "name": "Niger",
+    "waf_2": "NE-XX",
+    "waf_3": "NER-XX",
+    "wikidata_id": "Q1032"
+  },
+  "NF": {
+    "a3": "NFK",
+    "latitude": -29.033333333333,
+    "longitude": 167.94972222222,
+    "name": "Norfolk Island",
+    "waf_2": "NF-XX",
+    "waf_3": "NFK-XX",
+    "wikidata_id": "Q31057"
+  },
+  "NG": {
+    "a3": "NGA",
+    "latitude": 9,
+    "longitude": 8,
+    "name": "Nigeria",
+    "waf_2": "NG-XX",
+    "waf_3": "NGA-XX",
+    "wikidata_id": "Q1033"
+  },
+  "NI": {
+    "a3": "NIC",
+    "latitude": 13,
+    "longitude": -85,
+    "name": "Nicaragua",
+    "waf_2": "NI-XX",
+    "waf_3": "NIC-XX",
+    "wikidata_id": "Q811"
+  },
+  "NL": {
+    "a3": "NLD",
+    "latitude": 52.316666666667,
+    "longitude": 5.55,
+    "name": "Netherlands",
+    "waf_2": "NL-XX",
+    "waf_3": "NLD-XX",
+    "wikidata_id": "Q55"
+  },
+  "NP": {
+    "a3": "NPL",
+    "latitude": 28,
+    "longitude": 84,
+    "name": "Nepal",
+    "waf_2": "NP-XX",
+    "waf_3": "NPL-XX",
+    "wikidata_id": "Q837"
+  },
+  "NR": {
+    "a3": "NRU",
+    "latitude": -0.5275,
+    "longitude": 166.935,
+    "name": "Nauru",
+    "waf_2": "NR-XX",
+    "waf_3": "NRU-XX",
+    "wikidata_id": "Q697"
+  },
+  "NU": {
+    "a3": "NIU",
+    "latitude": -19.05,
+    "longitude": -169.91666666667,
+    "name": "Niue",
+    "waf_2": "NU-XX",
+    "waf_3": "NIU-XX",
+    "wikidata_id": "Q34020"
+  },
+  "NZ": {
+    "a3": "NZL",
+    "latitude": -41.2,
+    "longitude": 174,
+    "name": "New Zealand",
+    "waf_2": "NZ-XX",
+    "waf_3": "NZL-XX",
+    "wikidata_id": "Q664"
+  },
+  "OM": {
+    "a3": "OMN",
+    "latitude": 21,
+    "longitude": 57,
+    "name": "Oman",
+    "waf_2": "OM-XX",
+    "waf_3": "OMN-XX",
+    "wikidata_id": "Q842"
+  },
+  "PA": {
+    "a3": "PAN",
+    "latitude": 8.616667,
+    "longitude": -80.366667,
+    "name": "Panama",
+    "waf_2": "PA-XX",
+    "waf_3": "PAN-XX",
+    "wikidata_id": "Q804"
+  },
+  "PE": {
+    "a3": "PER",
+    "latitude": -9.4,
+    "longitude": -76,
+    "name": "Peru",
+    "waf_2": "PE-XX",
+    "waf_3": "PER-XX",
+    "wikidata_id": "Q419"
+  },
+  "PF": {
+    "a3": "PYF",
+    "latitude": -17.533333333333335,
+    "longitude": -149.56666666666666,
+    "name": "French Polynesia",
+    "waf_2": "PF-XX",
+    "waf_3": "PYF-XX",
+    "wikidata_id": "Q30971"
+  },
+  "PG": {
+    "a3": "PNG",
+    "latitude": -6.3,
+    "longitude": 147,
+    "name": "Papua New Guinea",
+    "waf_2": "PG-XX",
+    "waf_3": "PNG-XX",
+    "wikidata_id": "Q691"
+  },
+  "PH": {
+    "a3": "PHL",
+    "latitude": 12,
+    "longitude": 123,
+    "name": "Philippines",
+    "waf_2": "PH-XX",
+    "waf_3": "PHL-XX",
+    "wikidata_id": "Q928"
+  },
+  "PK": {
+    "a3": "PAK",
+    "latitude": 30,
+    "longitude": 71,
+    "name": "Pakistan",
+    "waf_2": "PK-XX",
+    "waf_3": "PAK-XX",
+    "wikidata_id": "Q843"
+  },
+  "PL": {
+    "a3": "POL",
+    "latitude": 52,
+    "longitude": 19,
+    "name": "Poland",
+    "waf_2": "PL-XX",
+    "waf_3": "POL-XX",
+    "wikidata_id": "Q36"
+  },
+  "PM": {
+    "a3": "SPM",
+    "latitude": 46.825,
+    "longitude": -56.275,
+    "name": "Saint Pierre and Miquelon",
+    "waf_2": "PM-XX",
+    "waf_3": "SPM-XX",
+    "wikidata_id": "Q34617"
+  },
+  "PN": {
+    "a3": "PCN",
+    "latitude": -25.0677812,
+    "longitude": -130.1045778,
+    "name": "Pitcairn Islands",
+    "waf_2": "PN-XX",
+    "waf_3": "PCN-XX",
+    "wikidata_id": "Q35672"
+  },
+  "PR": {
+    "a3": "PRI",
+    "latitude": 18.25,
+    "longitude": -66.5,
+    "name": "Puerto Rico",
+    "waf_2": "PR-XX",
+    "waf_3": "PRI-XX",
+    "wikidata_id": "Q1183"
+  },
+  "PS": {
+    "a3": "PSE",
+    "latitude": 31.625321,
+    "longitude": 35.145264,
+    "name": "Palestine",
+    "waf_2": "PS-XX",
+    "waf_3": "PSE-XX",
+    "wikidata_id": "Q23792"
+  },
+  "PT": {
+    "a3": "PRT",
+    "latitude": 38.7,
+    "longitude": -9.183333333333334,
+    "name": "Portugal",
+    "waf_2": "PT-XX",
+    "waf_3": "PRT-XX",
+    "wikidata_id": "Q45"
+  },
+  "PW": {
+    "a3": "PLW",
+    "latitude": 7.466667,
+    "longitude": 134.55,
+    "name": "Palau",
+    "waf_2": "PW-XX",
+    "waf_3": "PLW-XX",
+    "wikidata_id": "Q695"
+  },
+  "PY": {
+    "a3": "PRY",
+    "latitude": -23.5,
+    "longitude": -58,
+    "name": "Paraguay",
+    "waf_2": "PY-XX",
+    "waf_3": "PRY-XX",
+    "wikidata_id": "Q733"
+  },
+  "QA": {
+    "a3": "QAT",
+    "latitude": 25.269535,
+    "longitude": 51.212767,
+    "name": "Qatar",
+    "waf_2": "QA-XX",
+    "waf_3": "QAT-XX",
+    "wikidata_id": "Q846"
+  },
+  "RE": {
+    "a3": "REU",
+    "latitude": -21.114444,
+    "longitude": 55.5325,
+    "name": "Réunion",
+    "waf_2": "RE-XX",
+    "waf_3": "REU-XX",
+    "wikidata_id": null
+  },
+  "RO": {
+    "a3": "ROU",
+    "latitude": 46,
+    "longitude": 25,
+    "name": "Romania",
+    "waf_2": "RO-XX",
+    "waf_3": "ROU-XX",
+    "wikidata_id": "Q218"
+  },
+  "RS": {
+    "a3": "SRB",
+    "latitude": 43.95,
+    "longitude": 20.933333333333,
+    "name": "Serbia",
+    "waf_2": "RS-XX",
+    "waf_3": "SRB-XX",
+    "wikidata_id": "Q403"
+  },
+  "RU": {
+    "a3": "RUS",
+    "latitude": 66.41666666666667,
+    "longitude": 94.25,
+    "name": "Russia",
+    "waf_2": "RU-XX",
+    "waf_3": "RUS-XX",
+    "wikidata_id": "Q159"
+  },
+  "RW": {
+    "a3": "RWA",
+    "latitude": -2,
+    "longitude": 30,
+    "name": "Rwanda",
+    "waf_2": "RW-XX",
+    "waf_3": "RWA-XX",
+    "wikidata_id": "Q1037"
+  },
+  "SA": {
+    "a3": "SAU",
+    "latitude": 23.716667,
+    "longitude": 44.116667,
+    "name": "Saudi Arabia",
+    "waf_2": "SA-XX",
+    "waf_3": "SAU-XX",
+    "wikidata_id": "Q851"
+  },
+  "SB": {
+    "a3": "SLB",
+    "latitude": -9.4666666666667,
+    "longitude": 159.81666666667,
+    "name": "Solomon Islands",
+    "waf_2": "SB-XX",
+    "waf_3": "SLB-XX",
+    "wikidata_id": "Q685"
+  },
+  "SC": {
+    "a3": "SYC",
+    "latitude": -7.1,
+    "longitude": 52.766667,
+    "name": "Seychelles",
+    "waf_2": "SC-XX",
+    "waf_3": "SYC-XX",
+    "wikidata_id": "Q1042"
+  },
+  "SD": {
+    "a3": "SDN",
+    "latitude": 15,
+    "longitude": 32,
+    "name": "Sudan",
+    "waf_2": "SD-XX",
+    "waf_3": "SDN-XX",
+    "wikidata_id": "Q1049"
+  },
+  "SE": {
+    "a3": "SWE",
+    "latitude": 61,
+    "longitude": 15,
+    "name": "Sweden",
+    "waf_2": "SE-XX",
+    "waf_3": "SWE-XX",
+    "wikidata_id": "Q34"
+  },
+  "SG": {
+    "a3": "SGP",
+    "latitude": 1.3,
+    "longitude": 103.8,
+    "name": "Singapore",
+    "waf_2": "SG-XX",
+    "waf_3": "SGP-XX",
+    "wikidata_id": "Q334"
+  },
+  "SH": {
+    "a3": "SHN",
+    "latitude": -15.9245,
+    "longitude": -5.7181,
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "waf_2": "SH-XX",
+    "waf_3": "SHN-XX",
+    "wikidata_id": "Q192184"
+  },
+  "SI": {
+    "a3": "SVN",
+    "latitude": 46,
+    "longitude": 15,
+    "name": "Slovenia",
+    "waf_2": "SI-XX",
+    "waf_3": "SVN-XX",
+    "wikidata_id": "Q215"
+  },
+  "SJ": {
+    "a3": "SJM",
+    "latitude": 78.6352,
+    "longitude": 21.9939,
+    "name": "Svalbard and Jan Mayen",
+    "waf_2": "SJ-XX",
+    "waf_3": "SJM-XX",
+    "wikidata_id": null
+  },
+  "SK": {
+    "a3": "SVK",
+    "latitude": 49,
+    "longitude": 20,
+    "name": "Slovakia",
+    "waf_2": "SK-XX",
+    "waf_3": "SVK-XX",
+    "wikidata_id": "Q214"
+  },
+  "SL": {
+    "a3": "SLE",
+    "latitude": 8.5,
+    "longitude": -12.1,
+    "name": "Sierra Leone",
+    "waf_2": "SL-XX",
+    "waf_3": "SLE-XX",
+    "wikidata_id": "Q1044"
+  },
+  "SM": {
+    "a3": "SMR",
+    "latitude": 43.93333333333333,
+    "longitude": 12.466666666666667,
+    "name": "San Marino",
+    "waf_2": "SM-XX",
+    "waf_3": "SMR-XX",
+    "wikidata_id": "Q238"
+  },
+  "SN": {
+    "a3": "SEN",
+    "latitude": 14.366667,
+    "longitude": -14.283333,
+    "name": "Senegal",
+    "waf_2": "SN-XX",
+    "waf_3": "SEN-XX",
+    "wikidata_id": "Q1041"
+  },
+  "SO": {
+    "a3": "SOM",
+    "latitude": 6,
+    "longitude": 47,
+    "name": "Somalia",
+    "waf_2": "SO-XX",
+    "waf_3": "SOM-XX",
+    "wikidata_id": "Q1045"
+  },
+  "SR": {
+    "a3": "SUR",
+    "latitude": 4,
+    "longitude": -56,
+    "name": "Suriname",
+    "waf_2": "SR-XX",
+    "waf_3": "SUR-XX",
+    "wikidata_id": "Q730"
+  },
+  "SS": {
+    "a3": "SSD",
+    "latitude": 7,
+    "longitude": 30,
+    "name": "South Sudan",
+    "waf_2": "SS-XX",
+    "waf_3": "SSD-XX",
+    "wikidata_id": "Q958"
+  },
+  "ST": {
+    "a3": "STP",
+    "latitude": 0.316667,
+    "longitude": 6.6,
+    "name": "São Tomé and Príncipe",
+    "waf_2": "ST-XX",
+    "waf_3": "STP-XX",
+    "wikidata_id": "Q1039"
+  },
+  "SV": {
+    "a3": "SLV",
+    "latitude": 13.668889,
+    "longitude": -88.866111,
+    "name": "El Salvador",
+    "waf_2": "SV-XX",
+    "waf_3": "SLV-XX",
+    "wikidata_id": "Q792"
+  },
+  "SX": {
+    "a3": "SXM",
+    "latitude": 18.031944444444,
+    "longitude": -63.067777777778,
+    "name": "Sint Maarten",
+    "waf_2": "SX-XX",
+    "waf_3": "SXM-XX",
+    "wikidata_id": "Q26273"
+  },
+  "SY": {
+    "a3": "SYR",
+    "latitude": 35.216667,
+    "longitude": 38.583333,
+    "name": "Syria",
+    "waf_2": "SY-XX",
+    "waf_3": "SYR-XX",
+    "wikidata_id": "Q858"
+  },
+  "SZ": {
+    "a3": "SWZ",
+    "latitude": -26.483333,
+    "longitude": 31.433333,
+    "name": "Eswatini",
+    "waf_2": "SZ-XX",
+    "waf_3": "SWZ-XX",
+    "wikidata_id": "Q1050"
+  },
+  "TC": {
+    "a3": "TCA",
+    "latitude": 21.78,
+    "longitude": -71.8,
+    "name": "Turks and Caicos Islands",
+    "waf_2": "TC-XX",
+    "waf_3": "TCA-XX",
+    "wikidata_id": "Q18221"
+  },
+  "TD": {
+    "a3": "TCD",
+    "latitude": 15.466667,
+    "longitude": 19.4,
+    "name": "Chad",
+    "waf_2": "TD-XX",
+    "waf_3": "TCD-XX",
+    "wikidata_id": "Q657"
+  },
+  "TF": {
+    "a3": "ATF",
+    "latitude": -43,
+    "longitude": 67,
+    "name": "French Southern and Antarctic Lands",
+    "waf_2": "TF-XX",
+    "waf_3": "ATF-XX",
+    "wikidata_id": "Q129003"
+  },
+  "TG": {
+    "a3": "TGO",
+    "latitude": 8.25,
+    "longitude": 1.183333,
+    "name": "Togo",
+    "waf_2": "TG-XX",
+    "waf_3": "TGO-XX",
+    "wikidata_id": "Q945"
+  },
+  "TH": {
+    "a3": "THA",
+    "latitude": 14,
+    "longitude": 101,
+    "name": "Thailand",
+    "waf_2": "TH-XX",
+    "waf_3": "THA-XX",
+    "wikidata_id": "Q869"
+  },
+  "TJ": {
+    "a3": "TJK",
+    "latitude": 38.583333,
+    "longitude": 71.366667,
+    "name": "Tajikistan",
+    "waf_2": "TJ-XX",
+    "waf_3": "TJK-XX",
+    "wikidata_id": "Q863"
+  },
+  "TK": {
+    "a3": "TKL",
+    "latitude": -9.166667,
+    "longitude": -171.833333,
+    "name": "Tokelau",
+    "waf_2": "TK-XX",
+    "waf_3": "TKL-XX",
+    "wikidata_id": null
+  },
+  "TL": {
+    "a3": "TLS",
+    "latitude": -8.966667,
+    "longitude": 125.75,
+    "name": "East Timor",
+    "waf_2": "TL-XX",
+    "waf_3": "TLS-XX",
+    "wikidata_id": "Q574"
+  },
+  "TM": {
+    "a3": "TKM",
+    "latitude": 39,
+    "longitude": 60,
+    "name": "Turkmenistan",
+    "waf_2": "TM-XX",
+    "waf_3": "TKM-XX",
+    "wikidata_id": "Q874"
+  },
+  "TN": {
+    "a3": "TUN",
+    "latitude": 34,
+    "longitude": 10,
+    "name": "Tunisia",
+    "waf_2": "TN-XX",
+    "waf_3": "TUN-XX",
+    "wikidata_id": "Q948"
+  },
+  "TO": {
+    "a3": "TON",
+    "latitude": -20.587778,
+    "longitude": -174.810278,
+    "name": "Tonga",
+    "waf_2": "TO-XX",
+    "waf_3": "TON-XX",
+    "wikidata_id": "Q678"
+  },
+  "TR": {
+    "a3": "TUR",
+    "latitude": 39,
+    "longitude": 36,
+    "name": "Turkey",
+    "waf_2": "TR-XX",
+    "waf_3": "TUR-XX",
+    "wikidata_id": "Q43"
+  },
+  "TT": {
+    "a3": "TTO",
+    "latitude": 10.666666666667,
+    "longitude": -61.516666666667,
+    "name": "Trinidad and Tobago",
+    "waf_2": "TT-XX",
+    "waf_3": "TTO-XX",
+    "wikidata_id": "Q754"
+  },
+  "TV": {
+    "a3": "TUV",
+    "latitude": -7.475,
+    "longitude": 178.005556,
+    "name": "Tuvalu",
+    "waf_2": "TV-XX",
+    "waf_3": "TUV-XX",
+    "wikidata_id": "Q672"
+  },
+  "TW": {
+    "a3": "TWN",
+    "latitude": 24,
+    "longitude": 121,
+    "name": "Taiwan",
+    "waf_2": "TW-XX",
+    "waf_3": "TWN-XX",
+    "wikidata_id": "Q865"
+  },
+  "TZ": {
+    "a3": "TZA",
+    "latitude": -6.3069444444444445,
+    "longitude": 34.85388888888889,
+    "name": "Tanzania",
+    "waf_2": "TZ-XX",
+    "waf_3": "TZA-XX",
+    "wikidata_id": "Q924"
+  },
+  "UA": {
+    "a3": "UKR",
+    "latitude": 49,
+    "longitude": 32,
+    "name": "Ukraine",
+    "waf_2": "UA-XX",
+    "waf_3": "UKR-XX",
+    "wikidata_id": "Q212"
+  },
+  "UG": {
+    "a3": "UGA",
+    "latitude": 1.28,
+    "longitude": 32.39,
+    "name": "Uganda",
+    "waf_2": "UG-XX",
+    "waf_3": "UGA-XX",
+    "wikidata_id": "Q1036"
+  },
+  "UM": {
+    "a3": "UMI",
+    "latitude": 19.3,
+    "longitude": 166.633333,
+    "name": "United States Minor Outlying Islands",
+    "waf_2": "UM-XX",
+    "waf_3": "UMI-XX",
+    "wikidata_id": "Q16645"
+  },
+  "US": {
+    "a3": "USA",
+    "latitude": 39.828175,
+    "longitude": -98.5795,
+    "name": "United States of America",
+    "waf_2": "US-XX",
+    "waf_3": "USA-XX",
+    "wikidata_id": "Q30"
+  },
+  "UY": {
+    "a3": "URY",
+    "latitude": -33,
+    "longitude": -56,
+    "name": "Uruguay",
+    "waf_2": "UY-XX",
+    "waf_3": "URY-XX",
+    "wikidata_id": "Q77"
+  },
+  "UZ": {
+    "a3": "UZB",
+    "latitude": 41,
+    "longitude": 66,
+    "name": "Uzbekistan",
+    "waf_2": "UZ-XX",
+    "waf_3": "UZB-XX",
+    "wikidata_id": "Q265"
+  },
+  "VA": {
+    "a3": "VAT",
+    "latitude": 41.904,
+    "longitude": 12.453,
+    "name": "Vatican City",
+    "waf_2": "VA-XX",
+    "waf_3": "VAT-XX",
+    "wikidata_id": "Q237"
+  },
+  "VC": {
+    "a3": "VCT",
+    "latitude": 13.0139,
+    "longitude": -61.2296,
+    "name": "Saint Vincent and the Grenadines",
+    "waf_2": "VC-XX",
+    "waf_3": "VCT-XX",
+    "wikidata_id": "Q757"
+  },
+  "VE": {
+    "a3": "VEN",
+    "latitude": 8,
+    "longitude": -67,
+    "name": "Venezuela",
+    "waf_2": "VE-XX",
+    "waf_3": "VEN-XX",
+    "wikidata_id": "Q717"
+  },
+  "VG": {
+    "a3": "VGB",
+    "latitude": 18.445,
+    "longitude": -64.54,
+    "name": "British Virgin Islands",
+    "waf_2": "VG-XX",
+    "waf_3": "VGB-XX",
+    "wikidata_id": "Q25305"
+  },
+  "VI": {
+    "a3": "VIR",
+    "latitude": 18.333333,
+    "longitude": -64.833333,
+    "name": "United States Virgin Islands",
+    "waf_2": "VI-XX",
+    "waf_3": "VIR-XX",
+    "wikidata_id": "Q11703"
+  },
+  "VN": {
+    "a3": "VNM",
+    "latitude": 16,
+    "longitude": 108,
+    "name": "Vietnam",
+    "waf_2": "VN-XX",
+    "waf_3": "VNM-XX",
+    "wikidata_id": "Q881"
+  },
+  "VU": {
+    "a3": "VUT",
+    "latitude": -16.633330555556,
+    "longitude": 168.01666944444,
+    "name": "Vanuatu",
+    "waf_2": "VU-XX",
+    "waf_3": "VUT-XX",
+    "wikidata_id": "Q686"
+  },
+  "WF": {
+    "a3": "WLF",
+    "latitude": -14.30181,
+    "longitude": -178.10932,
+    "name": "Wallis and Futuna",
+    "waf_2": "WF-XX",
+    "waf_3": "WLF-XX",
+    "wikidata_id": "Q35555"
+  },
+  "WS": {
+    "a3": "WSM",
+    "latitude": -13.745,
+    "longitude": -172.2175,
+    "name": "Samoa",
+    "waf_2": "WS-XX",
+    "waf_3": "WSM-XX",
+    "wikidata_id": "Q683"
+  },
+  "XK": {
+    "a3": "XXK",
+    "latitude": 42.583333,
+    "longitude": 21,
+    "name": "Kosovo",
+    "waf_2": "XK-XX",
+    "waf_3": "XXK-XX",
+    "wikidata_id": "Q228"
+  },
+  "YE": {
+    "a3": "YEM",
+    "latitude": 15.5,
+    "longitude": 48,
+    "name": "Yemen",
+    "waf_2": "YE-XX",
+    "waf_3": "YEM-XX",
+    "wikidata_id": "Q805"
+  },
+  "YT": {
+    "a3": "MYT",
+    "latitude": -12.843056,
+    "longitude": 45.138333,
+    "name": "Mayotte",
+    "waf_2": "YT-XX",
+    "waf_3": "MYT-XX",
+    "wikidata_id": null
+  },
+  "ZA": {
+    "a3": "ZAF",
+    "latitude": -29,
+    "longitude": 24,
+    "name": "South Africa",
+    "waf_2": "ZA-XX",
+    "waf_3": "ZAF-XX",
+    "wikidata_id": "Q258"
+  },
+  "ZM": {
+    "a3": "ZMB",
+    "latitude": -14,
+    "longitude": 28,
+    "name": "Zambia",
+    "waf_2": "ZM-XX",
+    "waf_3": "ZMB-XX",
+    "wikidata_id": "Q953"
+  },
+  "ZW": {
+    "a3": "ZWE",
+    "latitude": -19,
+    "longitude": 30,
+    "name": "Zimbabwe",
+    "waf_2": "ZW-XX",
+    "waf_3": "ZWE-XX",
+    "wikidata_id": "Q954"
+  }
+}
